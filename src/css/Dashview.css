@@ -1,0 +1,19 @@
+.top {
+  margin-bottom: 0.8rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-select {
+  display: flex;
+  gap: 10px;
+}
+
+.image-select img {
+  width: 12%;
+  border-radius: 100%;
+}
+.elem {
+  display: flex;
+  gap: 0.8rem;
+}
